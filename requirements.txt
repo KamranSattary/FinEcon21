@@ -1,0 +1,10 @@
+fredapi
+wrds
+pandas
+numpy
+yaml
+statsmodels
+keras
+tensorflow
+scikit-learn
+pickle-mixin
